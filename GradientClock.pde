@@ -1,7 +1,7 @@
 // Gradient Clock
 // 10 Nov 2017
 // by Sarah Safranski
-// A funky and colorful gradient clock that includes options for hour and minute or hour, minute an seconds.
+// A funky and colorful gradient clock that includes options for hour and minute or hour, minute and seconds.
 // https://github.com/sarahsafranski/GradientClock
 
 PFont font;
