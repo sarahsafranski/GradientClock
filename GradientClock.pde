@@ -1,7 +1,8 @@
-// Clock
-// Week 10: Creative Coding
-// 1 Nov 2017
-// by RJ Duran
+// Gradient Clock
+// 10 Nov 2017
+// by Sarah Safranski
+// A funky and colorful gradient clock that includes options for hour and minute or hour, minute an seconds.
+// https://github.com/sarahsafranski/GradientClock
 
 PFont font;
 
